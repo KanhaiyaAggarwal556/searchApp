@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"
+    />
+    <link rel="stylesheet" href="index.css" />
+    <title>Compro Tech</title>
+  </head>
+  <body>
+    <video autoplay loop muted playsinline>
+      <source src="video.mp4" type="video/mp4">
+    </video>
+    <div class="home">
+      <nav class="navbar">
+        <img src="Screenshot 2025-03-26 181206.png" alt="" />
+
+        <!-- <i class="fa-solid fa-xmark"></i> -->
+      </nav>
+      <div id="searchBar">
+        <input
+          type="text"
+          placeholder="search your component"
+          class="search"
+          id = "searchbar"
+          
+        />
+        <button id = "searchButton" onclick="getSearchValue()"><i class="searchi fa-sharp-duotone fa-solid fa-magnifying-glass"></i></button>
+        <i onclick = "Backup()" id="cross" class="cancel  fa-duotone fa-solid fa-xmark"></i>
+      </div>
+
+      <div id="container"></div> 
+      <!-- <div class ="footer">
+             <p class="">© 2024 Company, Inc</p>
+        
+            <a href="/" class="col-md-4 d-flex align-items-center justify-content-center mb-3 mb-md-0 me-md-auto link-body-emphasis text-decoration-none">
+              <svg class="bi me-2" width="40" height="32"><use xlink:href="#bootstrap"></use></svg>
+            </a>
+        
+            <ul class="nav col-md-4 justify-content-end">
+              <li class="nav-item"><a href="#" class="nav-link px-2 text-body-secondary">Home</a></li>
+              <li class="nav-item"><a href="#" class="nav-link px-2 text-body-secondary">Features</a></li>
+              <li class="nav-item"><a href="#" class="nav-link px-2 text-body-secondary">Pricing</a></li>
+              <li class="nav-item"><a href="#" class="nav-link px-2 text-body-secondary">FAQs</a></li>
+              <li class="nav-item"><a href="#" class="nav-link px-2 text-body-secondary">About</a></li>
+            </ul>
+        </div> -->
+    </div>
+    <script src = "main.js"></script>
+  </body>
+  
+</html>
