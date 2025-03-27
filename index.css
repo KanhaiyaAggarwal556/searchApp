@@ -40,35 +40,38 @@ nav>img{
     position: relative;
     margin: 20px;
 }
+
 [type="text"]{
     height: 15px;
     width: 50vw;
-    border-radius: 10px;
+    border-radius: 10px 0px 0px 10px;
     padding: 8px;
     /* margin: 20px; */
-    
+    border: 1px dotted rgb(185, 226, 191);
+    border-right: none;
+    outline: none;
+    background-color: transparent;
+    color: rgb(193, 202, 180);
+    /* flex: 1; */
 }
 
 #searchButton{
-    height: 34px;
     width: 50px;
-    position: absolute;
-    border-radius: 10px;
-    /* background-color: rgb(0, 0, 0);
-    color: white; */
-    border: 2px transparent black;
-    left: 96%;
+    border-radius: 0px 10px 10px 0px;
     padding: 5px;
+    border: none;
+    cursor: pointer;
 }
 .searchi{
     font-size: 1.3em;
 }
 .cancel{
-    position: absolute;
-    /* z-index: -1; */
-    left : 93%;
-    top: 30%;
+    position:absolute;
+    right: 6px;
+    top: 20%;
+    color: rgba(255, 255, 255, 0.478);
     display: none;
+    cursor: pointer;
 }
 #container{
     /* height: ; */

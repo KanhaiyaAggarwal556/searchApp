@@ -21,15 +21,19 @@
         <!-- <i class="fa-solid fa-xmark"></i> -->
       </nav>
       <div id="searchBar">
-        <input
-          type="text"
-          placeholder="search your component"
-          class="search"
-          id = "searchbar"
-          
-        />
+        <div class="searchbbar">
+          <input
+            type="text"
+            placeholder="search your component"
+            class="search"
+            id = "searchbar"
+            
+          />
+          <i onclick = "Backup()" id="cross" class="cancel  fa-duotone fa-solid fa-xmark"></i>
+        </div>
+        
         <button id = "searchButton" onclick="getSearchValue()"><i class="searchi fa-sharp-duotone fa-solid fa-magnifying-glass"></i></button>
-        <i onclick = "Backup()" id="cross" class="cancel  fa-duotone fa-solid fa-xmark"></i>
+        
       </div>
 
       <div id="container"></div> 
