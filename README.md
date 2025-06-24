@@ -3,7 +3,7 @@
 
 ## 📸 Preview
 
-![SnapySearch Preview]([https://snapisearch.netlify.app](https://go.screenpal.com/watch/cT1ZlJnXswc)) *(Optional: Replace with actual screenshot URL)*
+![SnapySearch Preview]([https://go.screenpal.com/watch/cT1ZlJnXswc]) 
 
 ---
 
