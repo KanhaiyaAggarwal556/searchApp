@@ -3,7 +3,7 @@
 
 ## 📸 Preview
 
-![SnapySearch Preview](https://snapisearch.netlify.app/preview.png) *(Optional: Replace with actual screenshot URL)*
+![SnapySearch Preview]([https://snapisearch.netlify.app](https://go.screenpal.com/watch/cT1ZlJnXswc)) *(Optional: Replace with actual screenshot URL)*
 
 ---
 
@@ -22,5 +22,5 @@ This project is open-source and available under the [MIT License](LICENSE).
 ## 🙋‍♂️ Author
 
 **Kanhaiya Agrawal**  
-🔗 [Portfolio](https://your-portfolio-link.com) *(Replace if available)*  
-📧 agrawalkanhaiya@example.com *(Optional)*
+🔗 [Portfolio](https://your-portfolio-link.com)
+📧 kanhaiaggarwal@gamil.com
