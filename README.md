@@ -3,7 +3,7 @@
 
 ## 📸 Preview
 
-![SnapySearch Preview](https://your-image-host.com/image.png)
+![SnapySearch Preview](https://go.screenpal.com/watch/cT1ZlJnXswc)
 
 ---
 
