@@ -22,5 +22,5 @@ This project is open-source and available under the [MIT License](LICENSE).
 ## 🙋‍♂️ Author
 
 **Kanhaiya Agrawal**  
-🔗 [Portfolio](https://your-portfolio-link.com)
+🔗 [Portfolio](https://kanhainya-portfolio.netlify.app/)
 📧 kanhaiaggarwal@gamil.com
